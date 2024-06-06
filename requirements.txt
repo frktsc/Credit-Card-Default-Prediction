@@ -1,0 +1,10 @@
+cassandra-driver
+python-dotenv
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
